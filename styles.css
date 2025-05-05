@@ -1,0 +1,30 @@
+.shape {
+    stroke-width: 5px;
+  }
+  
+  .square {
+    fill: #ffcccb;
+    stroke: #ff0000;
+    transition: all 1s ease-in-out;
+  }
+  
+  .rectangle {
+    fill: #ccffcc;
+    stroke: #00aa00;
+  }
+  
+  .circle {
+    fill: #cce5ff;
+    stroke: #0066cc;
+  }
+  
+  .ellipse {
+    fill: #f0e68c;
+    stroke: #b8860b;
+  }
+  
+  .square:hover {
+    fill: #800080;
+    stroke: #ffa500;
+  }
+  
